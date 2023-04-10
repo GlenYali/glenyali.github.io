@@ -1,8 +1,8 @@
 # glenyali.github.io
 
-# PhD Research Background
+# PhD Research Website
 
-PhD Research Website
+Brief Background
 
 I am Glen Yali, a PhD Candidate at the Department of [Geospatial Science](https://www.rmit.edu.au/about/schools-colleges/science/research/research-areas/geospatial-science), [RMIT University](https://www.rmit.edu.au/). My study is on monitoring tropical forest dynamics from space-borne data to support REDD+ Implementations in PNG.
 
